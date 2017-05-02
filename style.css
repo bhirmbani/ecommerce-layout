@@ -12,3 +12,7 @@
 #search-input {
   width: 450px;
 }
+
+.thumbnail {
+  border: none;
+}
